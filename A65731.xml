@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto all Gods host in England</title>
+            <author>D. W. (Dorothy White)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65731</idno>
+            <idno type="STC">Wing W1757</idno>
+            <idno type="STC">ESTC R38593</idno>
+            <idno type="EEBO-CITATION">17803198</idno>
+            <idno type="OCLC">ocm 17803198</idno>
+            <idno type="VID">106629</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65731)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106629)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1109:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto all Gods host in England</title>
+                  <author>D. W. (Dorothy White)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed p. 4: Dorothy White; p. 5 and 8: D.W.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:106629:1"/>
+            <head>UNTO ALL GODS HOST IN ENGLAND.</head>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>THis is a <hi>Heavenly Viſitation,</hi> ſent from the <hi>Union</hi> of the <hi>holy Spirit,</hi> &amp; <hi>holy Covenant</hi> of perpetual <hi>Peace,</hi> of <hi>Love</hi> and <hi>Conſolation,</hi> unto all who are of the <hi>holy Faith,</hi> and are partakers of the Promiſe which God made with <hi>Abraham,</hi> the ſame <hi>Faith</hi> and <hi>holy Covenant</hi> which God made with him and his Seed after him, whoſe Seed are made partakers of the ſame Promiſe of Life and bleſſed Inheritance, into the Covenant of free Love, of Life, Peace and Salvation, all muſt be gathered; for in the Covenant is the fellowſhip with the Father, and in it, is the <hi>holy Faith</hi> known, which worketh all into love, which is the like<g ref="char:EOLhyphen"/>neſs of God; and this is the very Nature of God, whoſe Nature is love. Therefore all to the Foundation which is elect and preci<g ref="char:EOLhyphen"/>ous, which was before the World was, or before the Mountains were brought forth; into that which was in the beginning, all muſt be gathered, into the inſeparable love of the fulneſs of the Father, into the life of innocency which God at firſt formed, which was glorious; into the ſame Heavenly Life which muſt reign over all, in which no diſcord ever ſtandeth, neither any ſtrife<g ref="char:EOLhyphen"/>maker did ever dwell. Therefore unto God's Covenant of peace
+<pb n="2" facs="tcp:106629:2" rendition="simple:additions"/>and bleſſedneſs all muſt come, to have union and fellowſhip with God, who is love; therefore all to the Foundation which God hath laid <hi>in you,</hi> which is his <hi>free-Love</hi> by which you were at firſt gathered: And this is upon me from the Lord God, to declare to all <hi>Iſrael,</hi> So in the <hi>Peace of God</hi> poſſeſs your ſouls, in the <hi>Reſt</hi> in which the bleſſing of God is felt and daily encreaſed. And here life flouriſheth like the green Willows by the Water-courſes; but verily, verily, every plant which the Gardener hath not planted, muſt be plucked up, and conſumed by the beams of conſuming brightneſs, which is now breaking forth; for the glory of the Day is come; therefore ariſe you Seed and Children of <hi>Abraham,</hi> ſhine forth in the glory of the Lord God, for the reign of the Lamb is come, Chriſt the Foundation, the choſen and elect Corner-ſtone; all feel your Anchor on him; for verily every one that buildeth, and not on him, God is coming to throw down; and no other Foundation have I to declare, but that which God hath laid <hi>in you,</hi> which is his Love; and into Love you muſt all be gathered, and into the union of the holy Spirit, who is the perfection of love. The time is at hand wherein the good Gardener wil through<g ref="char:EOLhyphen"/>ly weed his Garden, and every ſeed which he hath not ſown, he will root up. Therefore all to the ſearch, and throughly try what ſeed there is yet remaining in you, whether there is nothing but the ſeed of the Kingdom of God which remaineth. For who ſhall abide the day of the coming of the great God, who is flames of conſuming ſire; and what ſhall ſtand before him that is not of him? Verily the Lord God hath ſent me to declare and publiſh, and ſound forth his Meſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge unto all <hi>Iſrael,</hi> even to declare the day of free Love, and of everlaſting conſolation. Oh how bleſ<g ref="char:EOLhyphen"/>ſed a thing it is for Brethren to dwell together in the unity of the holy Spirit, in the Covenant of Love and Peace, in the union of the Saints in Light: Such feel the Life and Power, and Reſurre<g ref="char:EOLhyphen"/>ction of Jeſus, in whom is the healing virtue found, whoſe life is riſen in immortal glory, whoſe preſence filleth heaven &amp; earth, Unutterable and glorious will be the day of the Lord God unto the upright-hearted, who are found in the Faith of the holy Co<g ref="char:EOLhyphen"/>venant.</p>
+            <p>So my dear Friends and Brethren, in the life of holineſs I am one with you, who am the weakeſt of the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but yet I deſire
+<pb facs="tcp:106629:2" rendition="simple:additions"/>the proſperity of all the called of God. So in the bleſſed love of God all dwel; And Friends, in the Bowels of the Lord Jeſus let your yearnings be one towards another in the unchangeable Love and Life of the Lord God; and above all things, be careful of grie<g ref="char:EOLhyphen"/>ving the Life in one another, and watch over one another with a ſingle eye in the ſimplicity and truth, keep your minds ſtaid, and fix your eye alwayes on the Lord God; and that eye that is fixed on him, who looketh not for the evil, but rather to recover out of the evil, and to regain into that which is good; ſo none wil be overcome with the evil, but all wil overcome the evil with that which is good; therefore all down into the low, Lamb-like, heal<g ref="char:EOLhyphen"/>ing Spirit, whoſe virtue and love overcometh the hearts of all that truly wait in the ſimple life, which leadeth through the tribulati<g ref="char:EOLhyphen"/>on, and ſo to the waſhing; and ſo all who are led by it, wil be cleanſed, purged and purified from all droſs. And bleſſed, bleſ<g ref="char:EOLhyphen"/>ſed are all who dwel in the faith which works by love; ſuch wil be overcome, and fill'd with the Fountain of Eternal Peace, of Love and Conſolation. And Brethren and beloved, the Lord God of everlaſting glory, who is riſen in his beauty, who filleth both hea<g ref="char:EOLhyphen"/>ven and earth with the Majeſty of his brightneſs; he will more gloriouſly appear in his holy Mount, transfiguring himſelf in the midſt of all the Diſciples, who wait for the coming and appear<g ref="char:EOLhyphen"/>ance of the Lord Jeſus, whoſe coming is with great power, and great glory. Therefore ariſe you branches of the true Vine, ſpread forth you fruitful boughs, for the Lord God of the Vin<g ref="char:EOLhyphen"/>tage is come to gather the ripe fruit; therefore ſing ye deſert pla<g ref="char:EOLhyphen"/>ces, and rejoice ye that dwel in the low Valleys, for Gods holy Mountain drops of ſweet Wine; ſo the Lord God is become a place of broad Rivers, a Fountain full of Streams; and bleſſed are all who drink at the ſtill Waters, ſuch are refreſhed, who grow to the praiſe of God.</p>
+            <p>So dear friends, in the heavenly places all wil come to lie dovvn in the Kingdom vvith the Seed of <hi>Abraham, Iſaac</hi> and <hi>Jacob.</hi> So in the patience and long-ſuffering of God dvvel, for the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Gods Elect muſt be throughly tried, as purified Gold out of the Furnace, and as Silver that hath been ſeven times purified, in which burning flames (for God's Conſummation) muſt burn up and conſume all that which cannot ſtand before him when he ap<g ref="char:EOLhyphen"/>peareth.
+<pb n="4" facs="tcp:106629:3"/>Therefore all feel the Refiner ſitting as a Refiners fire in you, that you may know the Word that burneth through all the thickneſs and the darkneſs, that by it all may be expelled. So here is the power that expelleth, which is the Goſpel, the power of God unto everlaſting ſalvation; ſo that you may all feel the mighty power of God working Redemption in you, ſo that you may all ſing the ſongs of the Redeemed of the Lord, which none can learn but they who follow the Lamb and his leading; ſo the hour and day of Redemption is come unto the houſe of <hi>Iſrael,</hi> therefore all lift up up your heads, and look over the Mountains, for God will make the Hills to flye, and trembling muſt come up<g ref="char:EOLhyphen"/>on all tranſgreſſors; but bleſſed are are you that believe, you ſhall ſee the mighty ſalvation of the God of <hi>Iſrael,</hi> whoſe hope is in him, and whoſe dependance is upon him; they ſhall not miſs of their expectation, but the reward of the righteous ſhall be ſure, and a Crown of Life is laid up for all the faithful. Therefore re<g ref="char:EOLhyphen"/>joice you little Flock, for you is the Kingdom prepared. And therefore in the Dominion of God, which reigns over death, ſtand in the Heavenly Life, ſo will your peace encreaſe, and the virtue of God you wil daily feel, the ſhowers of his living mer<g ref="char:EOLhyphen"/>cies diſtilling upon you. So the bleſſing of Eternal peace from the Lord God ſurround you all, for ever.</p>
+            <p>And his Grace be with you all now and for ever.</p>
+            <closer>
+               <signed>Dorothy White.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:106629:3"/>
+            <opener>
+               <salute>FRIENDS,</salute>
+            </opener>
+            <p>ALL in the Life of the living God wait for the reſtoration and redemption of <hi>Zion,</hi> that you may ſhine in her beau<g ref="char:EOLhyphen"/>ty, that you may all be covered with the glory of the Lord God, that ye may know that Mountain of his Holineſs eſtabliſhed on the top of all Mountains; that you may know the King of glo<g ref="char:EOLhyphen"/>ry reigning on Mount <hi>Zion,</hi> that you her Converts may come up in this the day and reign of the great King, that you may all ſing ſongs of rejoicing, even the ſongs of <hi>Moſes</hi> and of the Lamb, that you may all have the harmony of holineſs ſounding through Heaven and Earth, that you may all ſing <hi>Hallelujahs</hi> and everlaſt<g ref="char:EOLhyphen"/>ing praiſes unto the God of Power, whoſe day is come, who is getting himſelf a Name and a praiſe in the Earth. And this is ſent from the God of Heaven, unto the general Aſſembly of Saints, unto the Church of the firſt-born, who are renewed again by the renewings of his power, into the image of holineſs. Peace be a mongſt you all from God the Father of our Lord Jeſus, who is come again in great power, glory and dominion. So all feel the virtue of the living God, in the life of holineſs diſtilled upon you, and all that dwell in peace with the Lord God, and one with ano<g ref="char:EOLhyphen"/>ther, may know the waterings, the buildings, the ſweet ſhowers which refreſh the Plant of Renown, which groweth in the pleaſant places. Ariſe, ariſe all that mourn, ariſe in the glory of the Lord God Almighty; rejoice, triumph in the Authority of the King of <hi>Iſrael,</hi> from whom this is ſent to you all. The dew of the ever laſting Hills reſt upon you. This is the greetings of the Father unto the Flock of the faithful.</p>
+            <closer>
+               <salute>
+                  <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o be read in your Meetings, in the fear of God.</hi>
+               </salute>
+               <signed>D.W.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:106629:4"/>
+            <p>THis is the mighty day of the Lord God, wherein ſalvation is come unto the Houſe of <hi>Iſrael;</hi> there<g ref="char:EOLhyphen"/>fore let <hi>Sion</hi> rejoice, and the Inhabitants of <hi>Jeruſalem</hi> be glad; for the King of <hi>Iſra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> the Lord of Hoſts is ariſing over all in his glorious Majeſty, and is ſhining forth in his beautiful brightneſs; therefore let the Heavens rejoice, let the beauty of the true Vine ſpring forth, let them ſpread and overſpread the whole Earth; for the day of <hi>Sions</hi> redemption and glorious deliverance draweth near, yea the ſeventh Trumpet is already blown out of <hi>Sion,</hi> to call the holy Hoſt of Angels together. And this is the glorious day of the Lord God, wherein he hath appear<g ref="char:EOLhyphen"/>ed unto the Children of men, as in the generations paſt; and from Heaven hath the Lord ſpoken; and bleſſed are all who hear his voice. So all in the meek ſpirit and life of the holy Lamb ſink down, dwell low, for low in the Val<g ref="char:EOLhyphen"/>leys doth the ſtreams clearly run. Therefore all ye Chil<g ref="char:EOLhyphen"/>dren and Seed of <hi>Abraham,</hi> ſit down in the Kingdom, in the Faith and Patience of your Father, holding faſt the faithful Teſtimony unto the end; and through the fire ye muſt all be led, as the Lord led the Children of <hi>Iſrael</hi> by the hand of <hi>Moſes,</hi> who parted the Sea before them; And now is the Lord God leading his Children by an outſtret<g ref="char:EOLhyphen"/>ched hand, and by the arm of his own Salvation he is bringing th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m into the Gates of <hi>Sion,</hi> where the harmo<g ref="char:EOLhyphen"/>nies of the holy Hoſt are ſounded unto the God of Hea<g ref="char:EOLhyphen"/>ven. And in this day hath the Lord God put it into my heart to ſound forth the day of deliverance unto <hi>Sions</hi> Mourners, that they which have ſate in the deſert places, and in the howling Wilderneſs, may now come forth, and ſit under the overſhadowing branches of the true Vine, that ſo they may drink of the fruits of the Grapes there<g ref="char:EOLhyphen"/>of;
+<pb n="7" facs="tcp:106629:4"/>for the bleſſed day is come, even the day of everlaſt<g ref="char:EOLhyphen"/>ing rejoicing, wherein Truth and Righteouſneſs ſhal over<g ref="char:EOLhyphen"/>ſpread the Earth, wherein the glory of the Lord ſhal co<g ref="char:EOLhyphen"/>ver his holy Mountain, and <hi>Jeruſalem</hi> ſhall become the praiſe of the whole Earth; and into her the Nations ſhall be gathered; for the Kingdom of the Lord Jeſus is come, and eſtabliſhing in the hearts of the children of men: So all muſt know your ſelves gathered into the Kingdom, in<g ref="char:EOLhyphen"/>to the Righteouſneſs, that ye may behold the glory there<g ref="char:EOLhyphen"/>of, for as the Sun ſhineth at noon-day, even ſo ſhall the glory of the Lord overſpread the whole earth, and the dread of the Lord ſhall come over all his enemies, and great ſhall be the amazing of <hi>Sions</hi> oppreſſors; yea, the Lord God is working of a great wonder, to the aſtoniſh<g ref="char:EOLhyphen"/>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of all the Nations round about, and his Enemies ſhall ſee his great indignation poured out, to their utter ruine and deſtruction. And this is near to be revealed, the Lord God hath ſpoken it, from whom I do declare it in his dread and authority, and from the zeal of his holy Majeſty I do this publiſh, the day of his coming unto all fleſh; and now is the reſtauration and ſalvation come; and therefore let the righteous rejoice, let the upright in heart lift up their heads; for God is advancing his Name, and they who truſt in it, ſhall be crowned for ever with unut<g ref="char:EOLhyphen"/>terable and glorious Crowns; in the heavenly places ſhall your habitations be with the God of Holineſs, who reign<g ref="char:EOLhyphen"/>eth in the Heaven of Heavens, King in his Eternal Glory; and all muſt be ſwallowed up of love, yea even with the Love and Life of the Lord God; therefore ſolace your ſelves in the Love and Life of the living God, that you may be perfect in love, and in the life of holineſs may poſ<g ref="char:EOLhyphen"/>ſeſs your ſouls, in eternal peace, rejoicing and praiſing the God of the living, for whom praiſes have waſted, unto
+<pb n="8" facs="tcp:106629:5" rendition="simple:additions"/>him be Hallelujahs given, even ſo ſaith my ſoul. And ſo in the living power all dwell, that life may be felt by all who poſſeſs the truth of the living God, that ſo none may be found as Wells, but having no Water; as Clouds, but having no Rain; and whilſt they Miniſter to others, they being dead in themſelves. And in the fear of the Lord God (I ſay) I do from him declare it; and ſo let all try the ſpi<g ref="char:EOLhyphen"/>rits, whether they are of God, yea or nay; it is of great concernment; and if they are not, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn from them; for ſuch there are who have erred from the Faith, who have looſ<g ref="char:EOLhyphen"/>ed their anchor, but of them beware; for this I do declare from the feeling of the life of the Lord God, great hurt hath been done, and ſelf hath been exalted, whilſt the boaſter hath ruled, God's Heritage hath ſuffered; but now his life reviveth, and the Lord will eſtabliſh his own, and that that which is not of him, ſhal be thrown down; for the Lord accepts that which is his own, and of his own beget<g ref="char:EOLhyphen"/>ting, &amp; that beareth his, Image, &amp; that hath the ſeal of the Lamb; and that is that which God wil crown and eſtabliſh for ever. So the grace of God, and of our Lord Jeſus, reſt and remain with you, and amongſt you all, for ever. So from the Spirit of Truth I this publiſh, as the Counſel of God unto all <hi>Iſrael.</hi>
+            </p>
+            <closer>
+               <signed>D. W.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
